@@ -67,6 +67,10 @@ Run the AILSII class that has the following parameters:
 
 **-gamma** :  Number of iterations for AILS-II to perform a new adjustment of variable 𝜔. The default value is 30.
 
+**-dMax** : Initial reference distance between the reference solution and the  solution obtained after the local search. The default value is 30.
+
+**-dMin** : Final Reference distance between the reference solution and the solution obtained after the local search. The default value is 15.
+
 ## Data
 
 The folder data contains all literature instances tested (files with extension .vrp). The files with the extension .sol refer to the Best Known Solutions (BKSs) used to calculate the gaps.
@@ -74,8 +78,4 @@ The folder data contains all literature instances tested (files with extension .
 ## Results
 
 The folder results contain all tables and figures elaborated after carrying out the experiments using the instances found in the folder data. To achieve the results presented in Tables 2 and 3, we ran the scripts in folder [scripts](scripts).
-
-**-dMax** : Initial reference distance between the reference solution and the  solution obtained after the local search. The default value is 30.
-
-**-dMin** : Final Reference distance between the reference solution and the solution obtained after the local search. The default value is 15.
 
