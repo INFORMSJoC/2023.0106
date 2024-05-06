@@ -77,5 +77,5 @@ The folder data contains all literature instances tested (files with extension .
 
 ## Results
 
-The folder results contain all tables and figures elaborated after carrying out the experiments using the instances found in the folder data. To achieve the results presented in [Table 2](results/Table2.png) and [Table 3 (part 1)](results/Table3_1.png), [Table 3 (part 2)](results/Table3_2.png) and [Table 3 (part 3)](results/Table3_3.png), we ran the scripts in folder [scripts](scripts).
+The folder results contain all tables and figures elaborated after carrying out the experiments using the instances found in the folder data. To achieve the results presented in [Table 2](results/Table2.png) and [Table 3 (part 1)](results/Table3_1.png), [Table 3 (part 2)](results/Table3_2.png) and [Table 3 (part 3)](results/Table3_3.png), we ran the scripts in folder [scripts](scripts). The scripts with the suffix UCHOA refer to the tests performed with the X instances, whereas the scripts with the suffix Arnold run the remainder instances. 
 
