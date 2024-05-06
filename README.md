@@ -77,5 +77,5 @@ The folder data contains all literature instances tested (files with extension .
 
 ## Results
 
-The folder results contain all tables and figures elaborated after carrying out the experiments using the instances found in the folder data. To achieve the results presented in Tables 2 and 3, we ran the scripts in folder [scripts](scripts).
+The folder results contain all tables and figures elaborated after carrying out the experiments using the instances found in the folder data. To achieve the results presented in Tables [2](results/Table2.png) and [3](results/Table3.png), we ran the scripts in folder [scripts](scripts).
 
