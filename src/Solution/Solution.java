@@ -1,3 +1,8 @@
+/**
+ * 	Copyright 2022, Vinícius R. Máximo
+ *	Distributed under the terms of the MIT License. 
+ *	SPDX-License-Identifier: MIT
+ */
 package Solution;
 
 import java.io.BufferedReader;
